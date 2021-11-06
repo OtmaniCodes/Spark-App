@@ -13,9 +13,7 @@ Installation
 
 ScreenShots:
 
-![ScreenShot1](https://github.com/Ahmed0tdc/Spark-App/blob/main/screenshots/Screenshot_2021-07-21-22-36-52.png)
-
-![ScreenShot2](https://github.com/Ahmed0tdc/Spark-App/blob/main/screenshots/Screenshot_2021-07-21-22-37-02.png)
+![ScreenShot1](https://github.com/Ahmed0tdc/Spark-App/blob/main/screenshots/Screenshot_2021-07-21-22-36-52.png) ![ScreenShot2](https://github.com/Ahmed0tdc/Spark-App/blob/main/screenshots/Screenshot_2021-07-21-22-37-02.png)
 
 ![ScreenShot3](https://github.com/Ahmed0tdc/Spark-App/blob/main/screenshots/Screenshot_2021-07-21-22-37-07.png)
 
